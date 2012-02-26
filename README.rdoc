@@ -1,0 +1,9 @@
+== Ueditor for rails
+
+  利用ueditor_area_tag、ueditor_area等helper方法，直接将text_area转化成ueditor
+TODO
+  智能导入静态文件
+  上传功能(carrierwave)
+  增加配置功能，可以预先配置多版式
+  多样式调用
+  
