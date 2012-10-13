@@ -1,27 +1,6 @@
-== Ueditor for rails
+Sorry, It has been close now.
 
-  利用ueditor_area_tag、ueditor_area等helper方法，直接将text_area转化成ueditor
-TODO
-  智能导入静态文件
-  上传功能(carrierwave)
-  增加配置功能，可以预先配置多版式
-  多样式调用
+Because I find it's not a good idea that put ueditor into a gem.  
+We can set up a application just by using the code(http://ueditor.baidu.com), and it's simple enough. 
 
-== 关于Ueditor
-  
-Ueditor概述
-
-  Ueditor是由百度web前端研发部开发的所见即所得富文本web编辑器，具有轻量，可定制，注重用户体验等特点，
-  开源基于BSD协议，允许自由使用和使用代码
-  官方网址：http://ueditor.baidu.com
-
-为什么使用Ueditor
-
-    体积小巧，性能优良，使用简单
-    分层架构，方便定制与扩展
-    满足不同层次用户需求，更加适合团队开发
-    丰富完善的中文文档
-    多个浏览器支持：Mozilla, MSIE, FireFox, Maxthon,Safari 和Chrome
-    更好的使用体验
-    拥有专业QA团队持续支持，已应用在百度各大产品线上
-    
+Sorry again!
